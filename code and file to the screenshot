@@ -1,0 +1,19 @@
+https://imgur.com/v4rjYd1
+
+$characters = [
+    "Negan" => [
+        "city" => "The Sanctuary",
+        "weapon" => "Lucille"
+    ],
+    "Daryl" => [
+        "city" => "Alexandria",
+        "weapon" => "crossbow"
+    ],
+    "Ezekiel" => [
+        "city" => "The Kingdom",
+        "weapon" => "Shiva"
+    ]
+    "Ali" => [
+        "city" => "Orléans",
+        "weapon" => "cravache"
+];
